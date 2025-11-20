@@ -188,7 +188,7 @@ POST /search
 
 ---
 
-# 📸 Screenshots (optional)
+# 📸 Screenshots
 
 <img width="1915" height="920" alt="image" src="https://github.com/user-attachments/assets/c927f1eb-c845-4725-96d1-559b57ca98bd" />
 <img width="1913" height="916" alt="image" src="https://github.com/user-attachments/assets/19e6a228-c5c0-49a2-a2e7-1ac400f50536" />
