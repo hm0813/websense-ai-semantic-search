@@ -13,7 +13,7 @@ This repository contains **both the frontend and backend** code inside a single 
 👉 **`/frontend` folder**
 A modern Next.js interface where users enter a website URL and search query, and view the top 10 matching results.
 **Direct link:**
-[https://github.com/hm0813/websense-ai-semantic-search/tree/main/frontend](https://github.com/hm0813/websense-ai-semantic-search/tree/main/frontend)
+[https://github.com/hm0813/websense-frontend](https://github.com/hm0813/websense-frontend)
 
 ---
 
@@ -22,7 +22,7 @@ A modern Next.js interface where users enter a website URL and search query, and
 👉 **`/backend` folder**
 Handles fetching HTML, chunking, embeddings, vector database storage, and semantic search.
 **Direct link:**
-[https://github.com/hm0813/websense-ai-semantic-search/tree/main/backend](https://github.com/hm0813/websense-ai-semantic-search/tree/main/backend)
+[https://github.com/hm0813/websense-backend](https://github.com/hm0813/websense-backend)
 
 
 ---
