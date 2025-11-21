@@ -1,9 +1,31 @@
 
-# 🌐 **WebSense – AI Semantic Search Engine**
+# 🌐 WebSense – Semantic Search Engine
 
-WebSense is a full-stack **AI-powered semantic search engine** that crawls any website, extracts HTML content, breaks it into chunks, generates embeddings, stores them in a vector database, and returns the most relevant search results using intelligent ranking.
+A full-stack semantic search tool that extracts, chunks, embeds, and searches website HTML content.
+This repository contains **both the frontend and backend** code inside a single monorepo.
 
-This repository contains **both the frontend (Next.js)** and **backend (FastAPI)** inside one unified repo.
+---
+
+## 🚀 Quick Access (Highlighted)
+
+### 🔵 **Frontend (Next.js App)**
+
+👉 **`/frontend` folder**
+A modern Next.js interface where users enter a website URL and search query, and view the top 10 matching results.
+**Direct link:**
+[https://github.com/hm0813/websense-ai-semantic-search/tree/main/frontend](https://github.com/hm0813/websense-ai-semantic-search/tree/main/frontend)
+
+---
+
+### 🟣 **Backend (FastAPI Service)**
+
+👉 **`/backend` folder**
+Handles fetching HTML, chunking, embeddings, vector database storage, and semantic search.
+**Direct link:**
+[https://github.com/hm0813/websense-ai-semantic-search/tree/main/backend](https://github.com/hm0813/websense-ai-semantic-search/tree/main/backend)
+
+---
+
 
 ---
 
