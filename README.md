@@ -6,7 +6,7 @@ This repository contains **both the frontend and backend** code inside a single 
 
 ---
 
-## 🚀 Quick Access (Highlighted)
+## 🚀 Quick Access
 
 ### 🔵 **Frontend (Next.js App)**
 
