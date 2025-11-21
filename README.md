@@ -24,8 +24,6 @@ Handles fetching HTML, chunking, embeddings, vector database storage, and semant
 **Direct link:**
 [https://github.com/hm0813/websense-ai-semantic-search/tree/main/backend](https://github.com/hm0813/websense-ai-semantic-search/tree/main/backend)
 
----
-
 
 ---
 
